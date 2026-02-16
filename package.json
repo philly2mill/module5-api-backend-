@@ -1,3 +1,13 @@
-"scripts": {
-  "start": "node index.js"
+{
+    "name": "module5-api-backend",
+    "version": "1.0.0",
+    "description": "Module 5 backend API",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.22.1"
+    }
 }
